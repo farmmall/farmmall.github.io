@@ -883,7 +883,7 @@
           },
           "title1": "Bootstrap 4",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Product: Vegetables<br>Town:<br>Seller Name: Farm Mall<br><br>",
+          "caption1": "Product: Vegetables<br>Town: Nanyuki.<br>Seller Name: Farm Mall<br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"green-grocer1.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Buy</a>",
           "media2": {
             "image": {
