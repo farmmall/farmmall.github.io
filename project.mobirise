@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "buy_dashboard.html",
+    "currentPage": "sell.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -692,7 +692,7 @@
             "showText": false,
             "showButton": false
           },
-          "title": "HOW TO SELL YOUR PRODUCTS.",
+          "title": "SELL YOUR PRODUCTS.",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -712,7 +712,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>We only require your phone call </p><p>and you can start selling your products online.</p><p>Call us at: +254717078607</p><p>or email us at farmmallsite@gmail.com</p><p><br></p>"
+          "text": "<p>It's free.</p><p>We only require your phone call or email</p><p>and you can start selling your products online.</p><p>Call us at: +254717078607</p><p>or email your product details and location at farmmallsite@gmail.com</p><p>to get your stall in Farm Mall.</p><p><br></p>"
         }
       ]
     },
